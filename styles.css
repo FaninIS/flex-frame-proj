@@ -1,0 +1,22 @@
+.frame {
+  width: 400px;
+  height: auto;
+  font-style: italic;
+  font-weight: bold;
+  padding: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  background:
+  url(./top-bg.png) center top / contain no-repeat,
+  url(./bottom-bg.png) center bottom / contain no-repeat,
+  url(./center-bg.png) center top / contain repeat-y;  
+  }
+
+  p::first-letter {
+    color: red;
+    }
+
+    p {
+      text-indent: 1.5em;
+    }
