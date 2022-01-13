@@ -6,11 +6,11 @@
   padding: 90px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 15%;
+  margin-top: 200px;
   background:
-  url(./top-bg.png) center top / contain no-repeat,
-  url(./bottom-bg.png) center bottom / contain no-repeat,
-  url(./center-bg.png) center top / contain repeat-y;  
+  url(./img/top-bg.png) center top / contain no-repeat,
+  url(./img/bottom-bg.png) center bottom / contain no-repeat,
+  url(./img/center-bg.png) center top / contain repeat-y;  
   }
 
   p::first-letter {
